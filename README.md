@@ -12,8 +12,8 @@ A full-stack web application to manage student records with secure authenticatio
 
 ## 📦 GitHub Repositories
 
-* 🔗 Frontend:[ https://github.com/your-username/student-management-frontend](https://github.com/Rounak2811/Student-Management-System-react-frontend))
-* 🔗 Backend: [https://github.com/your-username/student-management-backend](https://github.com/Rounak2811/Student-Management-System-springboot-backend)
+* 🔗 Frontend:[ Frontend Repository Link](https://github.com/Rounak2811/Student-Management-System-react-frontend))
+* 🔗 Backend: [Backend Repository Link](https://github.com/Rounak2811/Student-Management-System-springboot-backend)
 
 ---
 
